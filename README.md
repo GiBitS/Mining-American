@@ -1,7 +1,6 @@
 # Gimici American mine
 
 Mining bitcoin now
-====================
 Notes on Stratum extensions
 -------------------------------
 
