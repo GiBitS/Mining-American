@@ -1,4 +1,5 @@
-# https-American-mine.com
+# Gimi American mine
+
 Mining Bitcoin now
 ====================
 Notes on Stratum extensions
