@@ -1,4 +1,4 @@
-# Gimici American mine
+# Mining American 
 
 
 Mining bitcoin now
